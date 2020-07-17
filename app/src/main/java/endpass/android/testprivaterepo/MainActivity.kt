@@ -10,7 +10,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
 
-        Connector.testFun()
+         Connector.testFun(this)
+        //Endpa
 
     }
 }
