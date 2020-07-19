@@ -1,3 +1,4 @@
+include ':endpass_sdk-release'
 include ':mylibrary'
 include ':app'
 rootProject.name = "TestPrivateRepo"
